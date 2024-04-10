@@ -1,4 +1,4 @@
-#Hastane Takip Sistemi🏥🏥🏥
+Hastane Takip Sistemi🏥🏥🏥
 
 
 
@@ -39,3 +39,8 @@ Sekreter İşlemleri:
 Randevu oluşturmak için "Randevu Oluştur" düğmesini kullanın.
 Günlük randevu takvimini görüntülemek için "Randevular" sekmesini kullanın.
 
+![7be60256-5431-4ba1-b35e-42eb95fa35e4](https://github.com/ipeknroztrk/HastaneTakip/assets/114228895/fe8c53ec-8994-4a5c-a457-6418a276e99e)
+![11d10360-d98c-42bd-bc9a-15fb6c042fff](https://github.com/ipeknroztrk/HastaneTakip/assets/114228895/3022edc7-edfe-4b7f-bc98-8f8ebb9b88e2)
+![aaaeb091-c58e-49dd-a428-1f345c4dc312](https://github.com/ipeknroztrk/HastaneTakip/assets/114228895/2cdc7ce8-9639-4526-8819-db3a739f6460)
+![3bb67b20-86e0-477d-9554-f1fe796af6e4](https://github.com/ipeknroztrk/HastaneTakip/assets/114228895/5ede7d8e-7dfd-4908-93a7-6bdb3c3243d6)
+![e2737f41-0868-4fd1-b959-500958b4d66e](https://github.com/ipeknroztrk/HastaneTakip/assets/114228895/d35c8161-e268-4178-98bf-3eb947d2baa2)
