@@ -1,4 +1,7 @@
 #Hastane Takip Sistemi🏥🏥🏥
+
+
+
 Hasta Takip Sistemi
 Bu proje, C# programlama dili ve MSSQL veritabanı kullanılarak geliştirilmiş bir hastane yönetim sistemi uygulamasıdır. Bu uygulama, hastaların, doktorların ve sekreterlerin işlemlerini kolaylaştırmak için tasarlanmıştır.
 
